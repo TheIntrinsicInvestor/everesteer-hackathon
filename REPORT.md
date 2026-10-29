@@ -1,4 +1,10 @@
-# Post-mortem: what went wrong, and what the evidence said
+# Results, testing and lessons
+
+## Highlights
+
+- **2nd of 521 in live round 2**, with `bl-c-bag` (+0.135), and six models in that round's top 14.
+- **2nd of 174 on the practice board** before the live rounds, at the time of submission.
+- **All 16 models positive in round 4** while the median entry was negative (best: 20th of 598).
 
 ## The event
 
@@ -9,7 +15,7 @@ Four 20-minute rounds on a shared clock. Each round serves a fresh "live" set of
 | Round | Staked | P&L | Field median score | What happened |
 |---|---|---|---|---|
 | 1 | $17.00 | -$1.20 | +0.030 | Every model about -0.07: positive FIT, negative UNQ |
-| 2 | $15.00 | +$0.95 | +0.055 | Every model positive; an unstaked one ranked 2nd of 521 |
+| 2 | $15.00 | +$0.95 | +0.055 | Every model positive; bl-c-bag 2nd of 521, six models in the top 14 |
 | 3 | $19.68 | -$2.60 | +0.077 | Concentrated stake lost; only one model positive |
 | 4 | $17.14 | +$1.10 | -0.038 | Every model positive while the field went negative |
 
