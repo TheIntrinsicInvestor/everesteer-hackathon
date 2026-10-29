@@ -1,0 +1,7 @@
+# Allowlist: only the files below are published. Data, fitted models, logs and working notes stay local.
+*
+!.gitignore
+!README.md
+!REPORT.md
+!requirements.txt
+!*.py
